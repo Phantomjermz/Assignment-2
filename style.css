@@ -16,7 +16,7 @@ header{
     font-size: 30px;
     margin: 0%;
     font-family: 'Young Serif', serif;
-    
+    color: black;
     text-align: center;
     text-shadow: black 2px 2px 80px  ;
     
@@ -35,10 +35,10 @@ header{
 #end{
     background-image: url(./photos/drowning.jpg);
     font-family: 'Young Serif', serif;
-    color:darkred;
+    color:black;
     background-size: cover;
     background-position: center;
-    text-shadow: black 2px 2px 200px  ;
+    text-shadow: white 10px 10px 200px  ;
     
 
 }
@@ -84,7 +84,7 @@ main div:nth-child(5){
     background-position: center;
     font-family: 'Young Serif', serif;
     padding: 200px;
-    color: darkblue;
+    color: white;
     text-shadow: black 2px 2px 200px  ;
 
 }
