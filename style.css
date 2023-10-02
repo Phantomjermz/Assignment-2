@@ -1,0 +1,122 @@
+main{
+
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 40px ;
+    text-shadow: black 10px 10px 200px  ;
+    
+}
+
+
+header{
+    background-image: url(./photos/pondering.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 200px;
+    font-size: 30px;
+    margin: 0%;
+    font-family: 'Young Serif', serif;
+    
+    text-align: center;
+    text-shadow: black 2px 2px 80px  ;
+    
+
+}
+
+
+#chorus{
+    background-image: url(./photos/crawling12.jpg);
+    font-family: 'Young Serif', serif;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+    color: white;
+}
+#end{
+    background-image: url(./photos/drowning.jpg);
+    font-family: 'Young Serif', serif;
+    color:darkred;
+    background-size: cover;
+    background-position: center;
+    text-shadow: black 2px 2px 200px  ;
+    
+
+}
+
+#beginning{
+    background-image: url(./photos/forest\ wandering.jpg);
+    padding: 200px;
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+    background-position: center;
+ 
+   
+
+}
+
+main div:nth-child(3){
+    background-image: url(./photos/moonlight\ headdown.jpg);
+    background-size: 15px;
+    padding: 250px;
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+  
+    
+
+
+}
+
+main div:nth-child(4){
+background-image: url(./photos/digital-art-pulled-beneath-the-surface-composition-large-open.webp);
+font-family: 'Young Serif', serif;
+padding: 250px;
+color: white;
+background-size: cover;
+background-position: center;
+
+
+}
+
+
+main div:nth-child(5){
+    background-image: url(./photos/trapped.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Young Serif', serif;
+    padding: 200px;
+    color: darkblue;
+    text-shadow: black 2px 2px 200px  ;
+
+}
+
+
+
+main div:nth-child(7){
+    background-image: url(./photos/discommfort.jpg);
+    font-family: 'Young Serif', serif;
+    color: white;
+    background-size: cover;
+    background-position: center;
+    text-shadow: black 2px 2px 40px  ;
+    padding: 150px;
+
+}
+
+main div:nth-child(8){
+    background-image: url(./photos/moonlight.jpg);
+    font-family: 'Young Serif', serif;
+    background-size: cover;
+    background-position: center;
+    padding: 150px;
+    color: red;
+    text-shadow: black 2px 2px 200px  ;
+
+}
+
+p{
+    margin: 0%;
+}
+
+h1{
+    margin: 0%;
+}
