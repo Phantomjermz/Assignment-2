@@ -34,7 +34,7 @@ header{
 #end{
     background-image: url(./photos/drowning.jpg);
     font-family: 'Young Serif', serif;
-    color:black;
+    color:red;
     background-size: cover;
     background-position: center;
     text-shadow: white 10px 10px 200px  ;
