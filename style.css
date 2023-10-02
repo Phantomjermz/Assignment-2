@@ -9,10 +9,10 @@ main{
 
 
 header{
-    background-image: url(./photos/pondering.jpg);
-    background-size: cover;
-    background-position: center;
-    padding: 200px;
+    background-image: url(./photos/title.jpg);
+    background-size: contain;
+    background-position: ;
+    padding: 150px;
     font-size: 30px;
     margin: 0%;
     font-family: 'Young Serif', serif;
